@@ -1,6 +1,6 @@
 let sellers = [];
 
-fetch("sellers copy.json")
+fetch("sellers.json")
     .then(res => res.json())
     .then(data => {
         sellers = data;
@@ -33,3 +33,4 @@ function renderTable(data) {
         table.appendChild(row);
     });
 }
+
