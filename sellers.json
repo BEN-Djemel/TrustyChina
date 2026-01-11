@@ -150,7 +150,7 @@
         "verified": "true"
     },
     {
-        "type": "vêtements",
+        "type": "vêtements et chaussures",
         "name": "Yolo66",
         "catalog_type": "yupoo",
         "catalog_url": "https://yolo66.x.yupoo.com/",
@@ -165,7 +165,7 @@
         "verified": "true"
     },
     {
-        "type": "vêtements",
+        "type": "vêtements et chaussures",
         "name": "ZOK",
         "catalog_type": "weidian",
         "catalog_url": "https://shop1767955201.v.weidian.com/?userid=1767955201",
@@ -270,7 +270,7 @@
         "verified": "true"
     },
     {
-        "type": "vêtements",
+        "type": "vêtements et chaussures",
         "name": "Repsun",
         "catalog_type": "yupoo",
         "catalog_url": "https://repsunofficial.x.yupoo.com/albums/192314515?uid=1&isSubCate=false&referrercate=4599274",
@@ -345,7 +345,7 @@
         "verified": "true"
     },
     {
-        "type": "vêtements",
+        "type": "vêtements et chaussures",
         "name": "Sharkbreeder",
         "catalog_type": "yupoo",
         "catalog_url": "https://shark-breeder.x.yupoo.com/",
@@ -510,7 +510,7 @@
         "verified": "true"
     },
     {
-        "type": "accessoires",
+        "type": "accessoires et femmes",
         "name": "v1",
         "catalog_type": "weidian",
         "catalog_url": "https://weidian.com/?userid=169153426",
@@ -705,7 +705,7 @@
         "verified": "true"
     },
     {
-        "type": "vêtements",
+        "type": "vêtements et chaussures",
         "name": "Qingyunzi",
         "catalog_type": "yupoo",
         "catalog_url": "https://qingyunzi.x.yupoo.com/",
@@ -1335,7 +1335,7 @@
         "verified": "true"
     },
     {
-        "type": "vêtements",
+        "type": "vêtements et chaussures",
         "name": "Andymade",
         "catalog_type": "yupoo",
         "catalog_url": "https://andymade.x.yupoo.com/albums",
@@ -1365,7 +1365,7 @@
         "verified": "true"
     },
     {
-        "type": "vêtements",
+        "type": "vêtements et accessoires",
         "name": "A8yi000",
         "catalog_type": "yupoo",
         "catalog_url": "https://a8yi000.x.yupoo.com/",
@@ -1665,7 +1665,7 @@
         "verified": "true"
     },
     {
-        "type": "chaussures",
+        "type": "chaussures et femmes",
         "name": "Pone",
         "catalog_type": "weidian",
         "catalog_url": "https://shop1759462442.v.weidian.com/?userid=1759462442",
@@ -1845,7 +1845,7 @@
         "verified": "false"
     },
     {
-        "type": "vêtements",
+        "type": "vêtements et accessoires",
         "name": "Taurus-reps",
         "catalog_type": "yupoo",
         "catalog_url": "https://deateath.x.yupoo.com/",
@@ -2115,7 +2115,7 @@
         "verified": "false"
     },
     {
-        "type": "accessoires",
+        "type": "accessoires et femmes",
         "name": "Justinluxury",
         "catalog_type": "yupoo",
         "catalog_url": "https://justinluxury.x.yupoo.com/albums",
@@ -2207,8 +2207,6 @@
     {
         "type": "🔋",
         "name": "Airsupply",
-        "catalog_type": "airpodsreplicas",
-        "catalog_url": "https://airpodsreplicas.com/links/info&sa=D&source=editors&ust=1768134383571288&usg=AOvVaw3DTE1FMrJAK7ythGrLQBo2",
         "catalog_type2": "kakobuy",
         "catalog_url2": "https://www.kakobuy.com/item/store?url=https%3A%2F%2Fweidian.com%2F%3Fuserid%3D1734404205&affcode=stannie",
         "known_for": "Apple",
@@ -2222,8 +2220,6 @@
     {
         "type": "vêtements",
         "name": "0832CLUB",
-        "catalog_type": "jetlifefashion",
-        "catalog_url": "https://www.jetlifefashion.com/&sa=D&source=editors&ust=1768134383571950&usg=AOvVaw1AWRL57PEU38-c-x2DywJu",
         "catalog_type2": "kakobuy",
         "catalog_url2": "https://kakobuy.com/item/store?url=https%3A%2F%2Fshop528754373.taobao.com%2F&affcode=stannie",
         "known_for": "HUGE",
@@ -2355,7 +2351,7 @@
         "verified": "false"
     },
     {
-        "type": "chaussures",
+        "type": "chaussures et accessoires",
         "name": "chengouhome",
         "catalog_type": "yupoo",
         "catalog_url": "https://chengouhome.x.yupoo.com/",
@@ -2565,7 +2561,7 @@
         "verified": "false"
     },
     {
-        "type": "vêtements",
+        "type": "vêtements et chaussures",
         "name": "MKSZY",
         "catalog_type": "taobao",
         "catalog_url": "https://shop33511723.taobao.com/",
@@ -2580,7 +2576,7 @@
         "verified": "true"
     },
     {
-        "type": "vêtements",
+        "type": "vêtements et chaussures",
         "name": "CLC-STUDIO",
         "catalog_type": "weidian",
         "catalog_url": "https://shop335669248.v.weidian.com/?userid=335669248",
