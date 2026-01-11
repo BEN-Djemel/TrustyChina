@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <title>TrustyChina</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>TrustyChina</h1>
+<h2><p>Liste de vendeurs chinois fiables (lecture seule)</p></h2>
+<h3>Fait avec chatgpt</h3>
+<h4>Si après le nom il y a l'emoji : ✅, c'est que le vendeur est vérifié, sinon, il y a l'emoji "⚠️".</h4>
+
+<div class="filters">
+    <select id="typeFilter">
+        <option value="">Tous les types</option>
+        <option value="vêtements">Vêtements</option>
+        <option value="chaussures">Chaussures</option>
+        <option value="accessoires">Accessoires</option>
+        <option value="femmes">Femmes</option>
+        <option value="autres">Autres</option>
+    </select>
+
+    <select id="catalogFilter">
+        <option value="">Tous les catalogues</option>
+        <option value="yupoo">Yupoo</option>
+        <option value="kakobuy">Kakobuy</option>
+    </select>
+
+    <select id="sortSelect">
+        <option value="quality_rating">Qualité</option>
+        <option value="price_rating">Prix</option>
+        <option value="name">Nom</option>
+    </select>
+</div>
+
+<table>
+    <thead>
+        <tr>
+            <th>Type</th>
+            <th>Nom</th>
+            <th>Catalogue</th>
+            <th>Connu pour</th>
+            <th>Qualité (0-100)</th>
+            <th>Prix (0-100)</th>
+            <th>Description</th>
+            <th>Contact</th>
+        </tr>
+    </thead>
+    <tbody id="sellerTable"></tbody>
+</table>
+
+<script src="app.js"></script>
+</body>
+</html>

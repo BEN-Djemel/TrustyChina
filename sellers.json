@@ -1,0 +1,28 @@
+[
+  {
+    "type": "vêtements",
+    "name": "Tigerrep",
+    "catalog_type": "yupoo",
+    "catalog_url": "https://tiger-official.x.yupoo.com/",
+    "known_for": "Supreme",
+    "quality_rating": 99,
+    "price_rating": 90,
+    "description": "Vendeur préféré de Stannie, il possède un serveur Discord, un bon service client et fait partie des rares vendeurs à avoir sa propre usine.",
+    "contact_type": "discord",
+    "contact_value": "<a href='https://discord.gg/tigerrep'>discord</a>",
+    "verified": true
+  },
+  {
+    "type": "vêtements",
+    "name": "DragonRep",
+    "catalog_type": "yupoo",
+    "catalog_url": "https://noghost.x.yupoo.com/",
+    "known_for": "Supreme",
+    "quality_rating": 99,
+    "price_rating": 85,
+    "description": "Les vêtements de Dragon sont incroyables, il y a énormément de choix et un catalogue immense d'une qualité exceptionnelle.",
+    "contact_type": "discord",
+    "contact_value": "<a href='https://discord.gg/yXfWqhtt8z'>discord</a>",
+    "verified": true
+  }
+]
